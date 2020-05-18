@@ -67,14 +67,12 @@ img:hover {
 .valaszt {
    color: rgba(1,1,1,.8);
 }
-#magamszoveg {
+.magamszoveg {
   font-size: 150%;
   text-align: justify;
   margin: 50px 15px 15px 15px;
 }
-#magamszoveg::first-letter {
-  padding-left: 40px;
-}
+
 #oldalvalaszt {
   width: 120px;
   height: 90px;
@@ -98,6 +96,9 @@ img:hover {
 .blue {
   background-color: rgba(0,0,255,.6);
   margin: 5px;
+}
+.yellow {
+  color: yellow;
 }
 #oldalvalaszt, .tartalom, #tartalom {
   background-color: rgba(240,210,112,.5);
