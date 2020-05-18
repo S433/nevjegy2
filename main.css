@@ -18,13 +18,22 @@ body {
 body {
   height: 100vh;
 }
+body2 {
+  background-color: darksalmon;
+}
 .head, .links {
   text-align: center;
 }
 .head, .content {
   width: 90%;
   margin: 0 auto;
-}img {
+}
+.head2 {
+  width: 200%;
+    height: 200%; 
+}
+
+img {
   width: 120px;
   height: 120px;
   border-radius: 50%;
@@ -40,6 +49,11 @@ body {
 body {
   background: url("https://s433.github.io/nevjegy/assets/suli.JPG") no-repeat center center fixed;
   background-size: cover;
+}
+body3 {
+  background-color: aqua;
+  background-size: cover;
+  
 }
 background {
   width: 100px;
